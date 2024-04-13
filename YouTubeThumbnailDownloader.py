@@ -5,7 +5,7 @@ import os
 from googleapiclient.discovery import build
 
 # YouTube Data APIのキーを設定します。
-api_key = "AIzaSyB8bwL7RWovJKLJU-CeiDEukdxDRjuSYRU"
+api_key = " "
 
 # YouTube Data APIのサービスを作成します。
 youtube = build('youtube', 'v3', developerKey=api_key)
