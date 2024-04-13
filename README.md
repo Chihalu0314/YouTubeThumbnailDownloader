@@ -1,4 +1,4 @@
-https://github.com/Cotoha-Saki/YouTubeThumbnailDownloader/releases/tag/v1.5
+***ダウンロード*** https://github.com/Cotoha-Saki/YouTubeThumbnailDownloader/releases/tag/v1.5
 
 > **インストール**
 
