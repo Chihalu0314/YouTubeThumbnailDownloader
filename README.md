@@ -1,3 +1,5 @@
+https://github.com/Cotoha-Saki/YouTubeThumbnailDownloader/releases/tag/v1.5
+
 > **インストール**
 
 ![sakiy](https://github.com/Cotoha-Saki/YouTubeThumbnailDownloader/assets/123475361/95f7dcef-94be-4e58-85f2-be45074cdfd5)
